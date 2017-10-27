@@ -1,7 +1,12 @@
 ---
 title: Čuda se događaju
-date: 2017-10-25T00:00:00+02:00
-description: Ima nas svakakvih...
+date: 2017-10-24T22:00:00.000Z
+description: >-
+  Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis
+  a pellentesque nec, egestas non nisi. Lorem ipsum dolor sit amet, consectetur
+  adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at
+  sem. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id
+  orci porta dapibus.
 image: /img/1.jpg
 ---
 Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada.
