@@ -17,6 +17,11 @@ Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Proin eget tort
 
 # Naslov
 
+#### Kamo smo zabrazdili: Pellentesque in ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere blandit.
+
+
+![Priroda](/img/balloon-1373161_1280.jpg)
+
 Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Curabitur aliquet quam id dui posuere blandit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.
 
 Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Proin eget tortor risus.
