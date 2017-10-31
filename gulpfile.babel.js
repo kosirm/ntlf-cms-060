@@ -72,6 +72,10 @@ gulp.task("server", ["hugo", "css", "cms-assets", "js", "svg"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
+    },
+    port: 8080,
+    ui: {
+    port: 8080
     }
   });
   gulp.watch("./src/js/**/*.js", ["js"]);
